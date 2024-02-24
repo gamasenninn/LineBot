@@ -1,2 +1,2 @@
-# LineBot
+# LineBotPHP
 LineBotの作成（PHP）
